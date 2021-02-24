@@ -1,1 +1,1 @@
-# Optical Flow Mehods
+# Optical Flow Methods
