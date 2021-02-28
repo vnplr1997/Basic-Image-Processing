@@ -25,4 +25,4 @@ Funcions:
 
 8.endpointerror.m : calculates mean square error between 2 flows
 
-# remaining functions are for color coding taken from middlebury vision/flow website
+## remaining functions are for color coding taken from middlebury vision/flow website
